@@ -1,0 +1,15 @@
+e:
+Facultad 2025
+dir
+cd Facultad 2025
+cd AyED
+cd TP en GitHub
+cd Con Developer
+cd 00-CppHelloWorld
+mkdir hello.cpp
+mkadir notepad hello.cpp
+notepad hello.cpp
+notepad readme.md
+cl hello.cpp
+hello.exe > output.txt
+doskey /history > secuencia_comandos.txt
