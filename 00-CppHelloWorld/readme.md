@@ -7,4 +7,4 @@ es el primer programa del curso donde imprimimos un mensaje en la consola
 Microsoft Visual Studio 2022 desde x64 Developer Native
 
 # Lenguaje:
-c++23
+C++23
